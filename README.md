@@ -1,4 +1,4 @@
-![logo](https://github.com/DevBhaveshPatil/DevBhaveshPatil/blob/main/github-header-image.png)
+![logo](https://github.com/DevBhaveshPatil/DevBhaveshPatil/blob/main/github-header-image%20(2).png)
 <h1 align="center">Hi 👋, I'm Bhavesh Patil</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="coding" width="300" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/data-science-2-mP4XPq0y3wUKory9.gif">
